@@ -2,7 +2,7 @@
 
 ## 平台后端
 
-AI Desk 平台后端、独立 MCP 服务、`ngx` 和 `ngx-server` 使用：
+AI Desk 平台后端、独立 MCP 服务、`scripts/ngx` 和 `scripts/ngx-server` 使用：
 
 ```text
 /root/nginxRouter/platform/backend/.venv
